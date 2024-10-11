@@ -1,4 +1,4 @@
-# <img src="https://i.imgur.com/slDmwlc.gif" width="40px"> PeoGualberto <img src="https://i.imgur.com/rCJ15AP.gif" width="40px">
+# <img src="https://i.imgur.com/slDmwlc.gif" width="40px"> Pedro Gualberto <img src="https://i.imgur.com/rCJ15AP.gif" width="40px">
 
 <h2> Oi gente, eu sou o <strong>PeoGFreitas</strong>. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 
